@@ -178,5 +178,3 @@ document.getElementById('requestButton').addEventListener('click', function () {
 You have built a simple Request Header Parser Microservice using Node.js and Express. This application provides valuable information about the client's request headers in a structured format.
 
 Feel free to expand this project further, such as adding error handling, improving the UI, or deploying it to a cloud service like Heroku or Vercel.
-
-If you have any questions or need further assistance, feel free to ask!
